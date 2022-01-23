@@ -11,8 +11,7 @@
         android:id="@+id/textView"
         android:layout_width="218dp"
         android:layout_height="68dp"
-        android:layout_marginLeft="150"
-        android:layout_marginTop="200"
+        android:layout_marginTop="200dp"
         android:text="Fragment 1"
         android:textColor="#FFFFFF" />
 </FrameLayout>
